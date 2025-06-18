@@ -22,20 +22,7 @@ My journey through computer science has ignited a passion for defensive security
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-### 🧠 SIEM & Security Tools
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
 
-### 🌐 Network & Packet Analysis
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### 🖥️ Endpoint Security
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
 
 ### Network
 <div>
